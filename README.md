@@ -1,4 +1,6 @@
-# Mondo — premium food delivery
+# projekti-wolt
+
+A modern food ordering and delivery platform inspired by Wolt. It supports restaurant discovery, menu viewing, online ordering, and order management. Built with Next.js, JavaScript, CSS, and MySQL.
 
 ## Run locally
 
